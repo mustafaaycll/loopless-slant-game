@@ -1,0 +1,6 @@
++----------------------------LOOPLESS SLANT GAME----------------------------+
+| RULES:                                                                    |
+| - Your symbol is '\' while the computer's is '/'                          |
+| - Computer start the first                                                |
+| - Give a coordinate when prompted in the following format: '+INT,+INT'    |
++---------------------------------------------------------------------------+
